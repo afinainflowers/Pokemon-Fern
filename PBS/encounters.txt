@@ -1,0 +1,33 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[075] # Tiall Region
+Land,21
+    20,GEODUDE_1,11,14
+    20,RATTATA_1,11,14
+    10,CUBONE,11,14
+    10,DIGLETT_1,11,14
+    10,MEOWTH_1,11,14
+    10,PIKACHU,11,14
+    10,SANDSHREW_1,11,14
+    10,VULPIX_1,11,14
+#-------------------------------
+[043] # Beetleaf Farm
+Land,21
+    20,SUNKERN,3,7
+    20,SUNFLORA,5,12
+    20,BOUNSWEET,7,12
+    20,SILICOBRA,7,10
+    10,PANCHAM,7,10
+    10,HAWLUCHA,7,10
+#-------------------------------
+[076] # Brightwood beginnings
+Land,21
+    10,SPINARAK,8,10
+    10,DEWPIDER,8,10
+    10,JOLTIK,8,10
+    10,SEEDOT,8,10
+    20,BUNNELBY,8,12
+    10,DEERLING,8,10
+    10,PIDGEY,8,10
+    10,ROOKIDEE,8,10
+    10,MARILL,8,10
