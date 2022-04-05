@@ -24,8 +24,6 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
-# Beetleaf Farm (43) - Chestnut village (22)
-43,North,0,22,South,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau (35)
@@ -40,5 +38,3 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# Brightwood Clearing (78) - Brightwood Beginnings (76)
-78,West,1,76,East,0
