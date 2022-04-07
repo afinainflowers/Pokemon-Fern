@@ -759,4 +759,4 @@
 740,SURGINGSTRIKES,Surging Strikes,188,25,WATER,Physical,100,5,0,NearOther,0,abef,"Strikes the target thrice, with mastery of the Water style. Always results in a critical hit."
 741,FLIPTURN,Flip Turn,0EE,60,WATER,Physical,100,20,0,NearOther,0,abef,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
 742,SWEETESTSONG,Sweetest Song,016,60,NORMAL,Special,100,20,100,Other,0,befk,"An incredibly sweet song that makes the opponent like the user despite getting damaged."
-743,TEARFULSONG,Tearful Song,200,60,NORMAL,Special,100,20,100,Other,0,befk,"A tear-jerking song damages the opponent. This also lowers Attack and Special Attack."
+743,TEARFULSONG,Tearful Song,04B,60,NORMAL,Special,100,20,100,Other,0,befk,"A tear-jerking song damages the opponent. This also sharpy lowers Attack."
