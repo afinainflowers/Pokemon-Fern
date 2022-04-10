@@ -119,7 +119,7 @@ BattleBack = field
 MapSize = 1,11
 #-------------------------------
 [022]
-# Chestnut village
+# Fern Library - research room
 Outdoor = true
 ShowArea = false
 BattleBack = field
@@ -222,21 +222,25 @@ MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
 [042]
-# Chestnut Vilage school
-Outdoor = false
+# Puddles forest
+Outdoor = true
 ShowArea = true
-Bicycle = false
+Bicycle = true
 BicycleAlways = false
+Weather = Rain,20
 DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-BattleBack = indoor1
+BattleBack = forest
+Environment = Forest
 #-------------------------------
 [043]
-# Beetleaf Farm
+# Ferntown
 Outdoor = true
+ShowArea = true
 Bicycle = true
+BicycleAlways = false
 BattleBack = field
 WildBattleBGM = Triple Triad.mid
 Environment = TallGrass
@@ -272,11 +276,11 @@ MapSize = 2,11
 Environment = Rock
 #-------------------------------
 [048]
-# Chestnut Village School 2
-Outdoor = false
+# Gardenlodge town
+Outdoor = true
 ShowArea = true
-Bicycle = false
-BattleBack = indoor1
+Bicycle = true
+BattleBack = city
 #-------------------------------
 [049]
 # Rock Cave
@@ -424,13 +428,16 @@ Bicycle = true
 MapPosition = 0,12,10
 #-------------------------------
 [075]
-# Tiall Region
-Outdoor = true
+# Ferntown Mart
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
 [076]
-# Brightwood Beginnings
+# Red's house
 Outdoor = true
 Bicycle = true
 BattleBack = forest
@@ -438,10 +445,10 @@ WildBattleBGM = DPPT 011 Battle! Wild Pokémon.ogg
 Environment = ForestGrass
 #-------------------------------
 [078]
-# Brightwood Clearing
-Outdoor = true
-ShowArea = true
-Bicycle = true
+# Gardenlodge Gym
+Outdoor = false
+ShowArea = false
+Bicycle = false
 BicycleAlways = false
-BattleBack = 
-Environment = Forest
+BattleBack = field
+Environment = Grass

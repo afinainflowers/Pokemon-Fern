@@ -145,3 +145,7 @@ LoseText = "You rock!"
 Pokemon = PICHU,7
 Pokemon = CHATOT,9
 Pokemon = MAGNEMITE,12
+#-------------------------------
+[PICNICKER,Katti]
+LoseText = "Sorry, I won't fight anymore!"
+Pokemon = SPOINK,7
