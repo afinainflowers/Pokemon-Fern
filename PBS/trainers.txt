@@ -149,3 +149,33 @@ Pokemon = MAGNEMITE,12
 [PICNICKER,Katti]
 LoseText = "Sorry, I won't fight anymore!"
 Pokemon = SPOINK,7
+#-------------------------------
+[PICNICKER,Katty]
+LoseText = "Nice battle it was, huh?"
+Pokemon = MEOWTH,5
+#-------------------------------
+[AROMALADY,Molly]
+LoseText = "I can't even be angry."
+Pokemon = SHELLOS,4
+Pokemon = ODDISH,4
+Pokemon = BOUNSWEET,4
+    Moves = ATTRACT,BOUNCE,SPLASH,PLAYNICE
+#-------------------------------
+[BEAUTY,Lux] #double battle?
+LoseText = "You don't mind me recording this battle, right?"
+Pokemon = SUNFLORA,6
+Pokemon = PETILIL,6
+#-------------------------------
+[LEADER_ERIKA,Rose]
+Items = POTION
+LoseText = "Very good."
+Pokemon = CHERUBI,7
+    Moves = TACKLE,LEAFAGE,TICKLE,ROLLOUT
+    IV = 20,20,20,20,20,20
+Pokemon = FOMANTIS,8
+    Shiny = yes
+    Moves = LEAFAGE,FURYCUTTER,GROWTH,WORRYSEED
+    Item = ORANBERRY
+    IV = 20,20,20,20,20,20
+    Ball = PREMIERBALL
+

@@ -13,3 +13,11 @@ Land,21
     10,ROOKIDEE,1,4
     10,AZURILL,1,4
 #-------------------------------
+[078] # Gardenlodge Gym
+Land,21
+    20,CUTIEFLY,2,4
+    20,ODDISH,2,4
+    20,NINCADA,2,4
+    20,APPLIN,2,4
+    20,SUNKERN,2,4
+#-------------------------------
