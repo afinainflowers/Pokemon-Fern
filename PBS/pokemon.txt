@@ -6495,7 +6495,7 @@ BattlerEnemyX = 4
 BattlerEnemyY = 35
 BattlerShadowX = 0
 BattlerShadowSize = 1
-Evolutions = SUNFLORA,Item,SUNSTONE
+Evolutions = SUNFLORA,Item,SUNSTONE,SUNFLORA,Level,12
 #-------------------------------
 [192]
 Name = Sunflora

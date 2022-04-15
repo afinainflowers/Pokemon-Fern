@@ -30,7 +30,7 @@ Land,21
     10,EKANS,4,8
     20,RATTATA,4,8
     10,COMBEE,4,8
-    10,WEEDLE,4,8
+    10,HOPPIP,4,8
     10,CATERPIE,4,8
 LandNight,21
     10,KRICKETOT,4,8
@@ -41,6 +41,7 @@ LandNight,21
     20,RATTATA_1,4,8
     10,HOOTHOOT,4,8
     10,WURMPLE,4,8
-    10,NOIBAT,4,8
-#static encounters: cocoons, foxes
+    10,WEEDLE,4,8
+# static encounters: cocoons, foxes, ferroseed
 #-------------------------------
+# for towns: pidove, ledyba, meowths, trubbish, burmy, seedot, rattatas
