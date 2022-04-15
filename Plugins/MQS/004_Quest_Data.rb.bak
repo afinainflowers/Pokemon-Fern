@@ -166,7 +166,7 @@ module QuestModule
     :Stage1 => "Get a starter.",
     :Location1 => "Library (long yellow building), 2nd floor",
     :Stage2 => "Get the first Gym Badge.",
-    :Location2 => "Gardenlodge Indoors Garden",
+    :Location2 => "Library (long yellow building), 2nd floor",
     :Stage3 => "TBD.",
     :Location3 => "TBD",
     :QuestDescription => "Going around collecting Gym Badges does not need a description.",
