@@ -21,3 +21,26 @@ Land,21
     20,APPLIN,2,4
     20,SUNKERN,2,4
 #-------------------------------
+[080] # Sunflower Road
+Land,21
+    10,SUNKERN,4,8
+    10,SUNFLORA,4,8
+    10,SEEDOT,4,8
+    10,SILICOBRA,4,8
+    10,EKANS,4,8
+    20,RATTATA,4,8
+    10,COMBEE,4,8
+    10,WEEDLE,4,8
+    10,CATERPIE,4,8
+LandNight,21
+    10,KRICKETOT,4,8
+    10,FERROSEED,4,8
+    10,SEEDOT,4,8
+    10,SILICOBRA,4,8
+    10,EKANS,4,8
+    20,RATTATA_1,4,8
+    10,HOOTHOOT,4,8
+    10,WURMPLE,4,8
+    10,NOIBAT,4,8
+#static encounters: cocoons, foxes
+#-------------------------------
