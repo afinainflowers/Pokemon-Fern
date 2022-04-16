@@ -6528,6 +6528,7 @@ BattlerEnemyX = -1
 BattlerEnemyY = 27
 BattlerShadowX = 0
 BattlerShadowSize = 1
+Evolutions = SUNNYDRA,HappinessDay,
 #-------------------------------
 [193]
 Name = Yanma
@@ -29773,3 +29774,35 @@ BattlerEnemyX = -2
 BattlerEnemyY = 28
 BattlerShadowX = 0
 BattlerShadowSize = 1
+#-------------------------------
+[900]
+Name = Sunnydra
+InternalName = SUNNYDRA
+Type1 = GRASS
+BaseStats = 80,110,60,20,120,90
+GenderRate = Female50Percent
+GrowthRate = Parabolic
+BaseEXP = 149
+EffortPoints = 0,2,0,0,1,0
+Rareness = 120
+Happiness = 70
+Abilities = CHLOROPHYLL,HUSTLE
+HiddenAbility = CONTRARY
+Moves = 0,POWERWHIP,0,TRIATTACK,1,FLOWERSHIELD,1,ABSORB,1,POUND,1,GROWTH,4,INGRAIN,7,GRASSWHISTLE,10,MEGADRAIN,13,LEECHSEED,16,RAZORLEAF,19,WORRYSEED,22,GIGADRAIN,25,BULLETSEED,28,PETALDANCE,31,NATURALGIFT,34,SOLARBEAM,37,DOUBLEEDGE,40,SUNNYDAY,43,LEAFSTORM,50,PETALBLIZZARD
+TutorMoves = AFTERYOU,ATTRACT,BULLETSEED,CONFIDE,CUT,DOUBLETEAM,EARTHPOWER,ENDEAVOR,ENDURE,ENERGYBALL,FACADE,FRUSTRATION,GIGADRAIN,GIGAIMPACT,GRASSKNOT,HELPINGHAND,HIDDENPOWER,HYPERBEAM,LIGHTSCREEN,NATUREPOWER,PROTECT,REST,RETURN,ROUND,SAFEGUARD,SEEDBOMB,SLEEPTALK,SLUDGEBOMB,SNORE,SOLARBEAM,SUBSTITUTE,SUNNYDAY,SWAGGER,SWORDSDANCE,SYNTHESIS,TOXIC,UPROAR,WORRYSEED,VINEWHIP,TRIATTACK,WRAP,FRENZYPLANT,WOODHAMMER,SLEEPPOWDER,POISONPOWDER,GRASSPLEDGE,POWERWHIP,STRENGTHSAP,STUNSPORE
+Compatibility = Grass
+StepsToHatch = 5120
+Height = 1.5
+Weight = 85
+Color = Yellow
+Shape = Bipedal
+Habitat = Grassland
+Kind = Sun
+Pokedex = After absorbing a lot of sun and love, Sunfloras settle and start sprouting in every direction, dropping seeds and powders from its flowers.
+Generation = 2
+BattlerPlayerX = 0
+BattlerPlayerY = 48
+BattlerEnemyX = -1
+BattlerEnemyY = 27
+BattlerShadowX = 0
+BattlerShadowSize = 3
