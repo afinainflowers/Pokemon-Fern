@@ -437,7 +437,7 @@ MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
 [076]
-# Red's house
+# \PN's house
 Outdoor = true
 Bicycle = true
 BattleBack = forest
@@ -452,3 +452,12 @@ Bicycle = false
 BicycleAlways = false
 BattleBack = field
 Environment = Grass
+#-------------------------------
+[080]
+# Sunflower Road
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+Weather = Sun,10
+BattleBack = field
