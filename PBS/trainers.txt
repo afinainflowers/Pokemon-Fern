@@ -117,14 +117,6 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
-[PAINTER,Fuku]
-LoseText = "Well, colour me surprised..."
-Pokemon = HELIOPTILE,8
-Pokemon = KECLEON,10
-    Gender = female
-    Moves = TAILWHIP,LICK,SCRATCH,FEINT
-    Ball = FRIENDBALL
-#-------------------------------
 [ROCKER,Napster]
 LoseText = "Oh shocks."
 Pokemon = JOLTIK,6
@@ -178,4 +170,13 @@ Pokemon = FOMANTIS,9
     Item = ORANBERRY
     IV = 20,20,20,20,20,20
     Ball = PREMIERBALL
+#-------------------------------
+[PAINTER,Fuku]
+LoseText = "Well, colour me surprised..."
+Pokemon = HELIOPTILE,6
+Pokemon = LITWICK,7
+Pokemon = KECLEON,8
+    Gender = female
+    Moves = TAILWHIP,LICK,SCRATCH,FEINT
+    Ball = FRIENDBALL
 
