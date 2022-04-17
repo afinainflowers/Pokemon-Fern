@@ -179,4 +179,14 @@ Pokemon = KECLEON,8
     Gender = female
     Moves = TAILWHIP,LICK,SCRATCH,FEINT
     Ball = FRIENDBALL
+#-------------------------------
+[BEAUTY,Haley]  #double battle?
+LoseText = "Ooh..."
+Pokemon = EXEGGUTE,6
+    Moves = ABSORB,REFLECT,HYPNOSIS,ROUND
+Pokemon = ALCREMIE_44,7
+    Moves = DECORATE,TACKLE,SWEETKISS,AROMATICMIST
+Pokemon = SUNFLORA,7
+    Moves = SEEDBOMB,TACKLE,GROWTH,INGRAIN
+#---------------------
 
