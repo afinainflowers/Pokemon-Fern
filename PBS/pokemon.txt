@@ -3185,7 +3185,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 16
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = GENGAR,Trade,
+Evolutions = GENGAR,Trade,GENGAR.Item,DUSKSTONE
 #-------------------------------
 [94]
 Name = Gengar
