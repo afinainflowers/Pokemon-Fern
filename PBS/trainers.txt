@@ -185,8 +185,17 @@ LoseText = "Ooh..."
 Pokemon = EXEGGUTE,6
     Moves = ABSORB,REFLECT,HYPNOSIS,ROUND
 Pokemon = ALCREMIE_44,7
+    Gender = female
     Moves = DECORATE,TACKLE,SWEETKISS,AROMATICMIST
 Pokemon = SUNFLORA,7
+    Gender = female
     Moves = SEEDBOMB,TACKLE,GROWTH,INGRAIN
 #---------------------
+[POKEMONTRAINER_Giselle,Giselle]
+LoseText = "You're actually not bad!"
+Pokemon = SUNKERN,8
+Pokemon = COMBEE,9
+    Gender = female
+Pokemon = GLAMEOW,10
+    Moves = FAKEOUT,SCRATCH,FAKETEARS,BITE
 

@@ -77,3 +77,4 @@
 74,POKEMONTRAINER_Koi,Pokémon Trainer,60,,,,Mixed,,
 75,FAIRYHUNTER_M,Fairy Hunter,32,,,,Male,,
 76,FAIRYHUNTER_F,Fairy Hunter,32,,,,Female,,
+77,POKEMONTRAINER_Giselle,Rival,16,,,,Female,,
