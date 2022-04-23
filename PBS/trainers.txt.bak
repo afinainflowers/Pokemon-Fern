@@ -203,7 +203,7 @@ Pokemon = GLAMEOW,10
 LoseText = "My exotic catches lost? Oh well."
 Pokemon = LUVDISC,9
 Pokemon = FINNEON,10
-	Moves - POUND,SIGNALBEAM ,WATERGUN,ATTRACT
+	Moves - POUND,SIGNALBEAM,WATERGUN,ATTRACT
 Pokemon = ARROKUDA,12
 #-------------------------------
 [AQUAGRUNT_F,Dyna] # Pirate Cosplayer

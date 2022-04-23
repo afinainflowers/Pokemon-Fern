@@ -191,7 +191,7 @@ Pokemon = SUNFLORA,7
     Gender = female
     Moves = SEEDBOMB,TACKLE,GROWTH,INGRAIN
 #---------------------
-[POKEMONTRAINER_Giselle,Giselle]
+[POKEMONTRAINER_Giselle,Leilla]
 LoseText = "You're actually not bad!"
 Pokemon = SUNKERN,8
 Pokemon = COMBEE,9
