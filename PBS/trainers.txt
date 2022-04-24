@@ -208,9 +208,9 @@ Pokemon = ARROKUDA,12
 #-------------------------------
 [AQUAGRUNT_F,Dyna] # Pirate Cosplayer
 LoseText = "River me timbers! ...Am I doing this right?"
-Pokemon = TENTACOOL,11
+Pokemon = WINGULL,10
     Gender = female
-Pokemon = WINGULL,12
+Pokemon = TENTACOOL,11
     Gender = female
     Moves = QUICKATTACK,SUPERSONIC,SCALD,THIEF
 Pokemon = CHINCHOU,12
@@ -231,6 +231,7 @@ Pokemon = FRILLISH,12
 #-------------------------------
 [LEADER_Wallace,Oceaton] 
 LoseText = "Splendid!"
+Items = FULLRESTORE
 Pokemon = RELICANTH,12
     IV = 20,20,20,20,20,20
     Moves = ANCIENTPOWER,MUDSLAP,WATERPULSE,ZENHEADBUTT

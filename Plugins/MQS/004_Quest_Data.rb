@@ -164,11 +164,13 @@ module QuestModule
     :Name => "Adventuring dream",
     :QuestGiver => "Inner monologue",
     :Stage1 => "Get a starter.",
-    :Location1 => "Library (long yellow building), 2nd floor",
+    :Location1 => "Fern Library, 2nd floor",
     :Stage2 => "Get the first Gym Badge.",
     :Location2 => "Gardenlodge Indoors Garden",
-    :Stage3 => "TBD.",
-    :Location3 => "TBD",
+    :Stage3 => "Get the second Gym Bagde.",
+    :Location3 => "Rivertown indoors canals",
+    :Stage4 => "TBD.",
+    :Location4 => "TBD",
     :QuestDescription => "Going around collecting Gym Badges does not need a description.",
     :RewardString => "Satisfaction!"
   }
