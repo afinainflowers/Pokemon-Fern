@@ -166,7 +166,7 @@ Pokemon = CHERUBI,9
     IV = 20,20,20,20,20,20
 Pokemon = FOMANTIS,9
     Shiny = yes
-    Moves = LEAFAGE,FURYCUTTER,GROWTH,WORRYSEED
+    Moves = LEAFAGE,FURYCUTTER,POISONJAB,BUGBITE
     Item = ORANBERRY
     IV = 20,20,20,20,20,20
     Ball = PREMIERBALL
@@ -182,12 +182,12 @@ Pokemon = KECLEON,8
 #-------------------------------
 [BEAUTY,Haley]  #double battle?
 LoseText = "Ooh..."
-Pokemon = EXEGGUTE,6
+Pokemon = EXEGGCUTE,8
     Moves = ABSORB,REFLECT,HYPNOSIS,ROUND
-Pokemon = ALCREMIE_44,7
+Pokemon = ALCREMIE_44,8
     Gender = female
     Moves = DECORATE,TACKLE,SWEETKISS,AROMATICMIST
-Pokemon = SUNFLORA,7
+Pokemon = SUNFLORA,8
     Gender = female
     Moves = SEEDBOMB,TACKLE,GROWTH,INGRAIN
 #---------------------
@@ -203,7 +203,7 @@ Pokemon = GLAMEOW,10
 LoseText = "My exotic catches lost? Oh well."
 Pokemon = LUVDISC,9
 Pokemon = FINNEON,10
-	Moves - POUND,SIGNALBEAM,WATERGUN,ATTRACT
+	Moves = POUND,SIGNALBEAM,WATERGUN,ATTRACT
 Pokemon = ARROKUDA,12
 #-------------------------------
 [AQUAGRUNT_F,Dyna] # Pirate Cosplayer
@@ -226,13 +226,13 @@ Pokemon = FRILLISH,12
 LoseText = "Should I return to making deliveries?"
 Pokemon = DELIBIRD,12
     Moves = PRESENT,QUICKATTACK,FREEZEDRY,WATERPULSE
-Pokemon = BRUXISH,13
+Pokemon = BRUXISH,12
 Pokemon = FRILLISH,12
 #-------------------------------
 [LEADER_Wallace,Oceaton] 
 LoseText = "Splendid!"
 Items = FULLRESTORE
-Pokemon = RELICANTH,12
+Pokemon = RELICANTH,13
     IV = 20,20,20,20,20,20
     Moves = ANCIENTPOWER,MUDSLAP,WATERPULSE,ZENHEADBUTT
 Pokemon = CORSOLA_1,13

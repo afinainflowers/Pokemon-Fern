@@ -66,7 +66,7 @@ OldRod
     10,FEEBAS,7,12
 GoodRod
 #-------------------------------
-[081] # Rivertown Gym
+[082] # Rivertown Gym
 Land,21
     10,FROAKIE,6,9
     10,POLIWAG,6,9

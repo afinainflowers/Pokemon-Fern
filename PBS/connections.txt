@@ -38,9 +38,11 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
+# Gardenlodge town (48) - Sunflower Road (80)
+48,West,0,80,East,4
+# Rivertown (81) - Sunflower Road (80)
+81,East,8,80,West,0
 # Puddles forest (42) - Gardenlodge town (48)
 42,West,0,48,East,1
-# Sunflower Road (80) - Gardenlodge town (48)
-80,East,4,48,West,0
 # Ferntown (43) - Puddles forest (42)
 43,West,3,42,East,0

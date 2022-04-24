@@ -461,3 +461,21 @@ Bicycle = true
 BicycleAlways = false
 Weather = Sun,10
 BattleBack = field
+#-------------------------------
+[081]
+# Rivertown
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+#-------------------------------
+[082]
+# Rivertown Gym
+Outdoor = false
+ShowArea = true
+Bicycle = false
+Environment = Grass
+#-------------------------------
+[083]
+# Rivertown Pokecenter
+Outdoor = false
