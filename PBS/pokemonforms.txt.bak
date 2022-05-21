@@ -931,7 +931,6 @@ BattlerEnemyY = 15
 [CORSOLA,1]
 FormName = Galarian Form
 Type1 = GHOST
-Type2 = ROCK
 BaseStats = 60,55,100,30,65,100
 Abilities = WEAKARMOR
 HiddenAbility = CURSEDBODY

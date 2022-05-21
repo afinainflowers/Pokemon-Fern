@@ -23,7 +23,7 @@ module ModularTitle
   #                                  PRESETS
   #-------------------------------------------------------------------------------
     "background:background", "logo:sparkle", "overlay:static002", "effect8", "logo:glow", "intro:1", "bgm:title_sm", "misc5:SUNNYDRA_x420_y12",
-	"misc5:SUNNYDRASHINY_x420_y278", "misc5:SUNNYDRASHINY_x12_y12", "misc5:SUNNYDRA_x12_y278"
+	"misc5:SUNNYDRASHINY_x420_y278", "misc5:SUNNYDRASHINY_y12", "misc5:SUNNYDRA_y278"
     # Electric Nightmare
     #"background1", "logo:bounce", "effect9", "logo:shine", "intro:4"
 

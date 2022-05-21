@@ -80,3 +80,6 @@
 77,POKEMONTRAINER_Giselle,Rival,48,DPPT 029 Battle! (Rival),DPPT 024 Victory! (Trainer Battle),,Female,,
 78,AQUAGRUNT_F,Pirate Cosplayer,32,,,,Female,,
 79,AQUAGRUNT_M,Pirate Cosplayer,32,,,,Male,,
+80,SWEETIE_DEFENDER,Sweetie Defender,32,,,,Female,,
+81,SWEETIE_EXECUTIVE,Sweetie Executive,32,,,,Female,,
+82,SWEETIE_TRAINEE,Sweetie Trainee,32,,,,Female,,
